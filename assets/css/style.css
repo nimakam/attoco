@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header 
+{
+    float:unset;
+    position:unset;
+}
+
+section 
+{
+    float:unset;
+}
